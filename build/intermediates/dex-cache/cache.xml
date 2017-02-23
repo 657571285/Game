@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="466de69a2e7b404ed1e7d4d220b215b2ccc45bf5">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c61e96633108f5db5e9fbf3d948fae50c9f0513a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3204ed32306f2687a5e27ab03cb4a60190b1b18e">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\instant-run_3a0c3608ef1d365aaf6be2e7ecb7ec53119376a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_72cc9039f835d2cf5831a0f2c5a82d5c83361a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_efd7f06d312d91db2a44df91b0c6ff06c458c46c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_5917d1c3d93d19e68f563ffb57394c59ecd15eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_0351f881626f64247b62f0b96c0836da0c848909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_e76482d99ee91981372fb738f29ca0d540206ca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_5fba66db7c2f9b9a6ec3b298d2910d83f1d1c70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_f27a64a1ee89a9fde89c520906609c9d920d4460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_798687de7c057e84ab548ff988d3979b1a2e0734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_72453676277fe7eb55657deca33f115beede089d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\colorful\AndroidStudioProjects\Game\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_9bf8bfdcdc2bdb69eab9d012525cec5e9990eafb.jar" />
+    </item>
+
+</items>
